@@ -1,0 +1,59 @@
+# Student loan repo: sync the thinking, never the documents.
+#
+# Same posture as the other repos. The plan, the paths, the call notes and the
+# rounded figures sync. Anything that came from the Department, a servicer, a
+# school or the IRS stays on this machine.
+
+# -- Filed originals and raw drops: LOCAL ONLY --------------------------------
+records/*
+!records/README.md
+inbox/*
+!inbox/README.md
+
+# -- Documents by type, anywhere in the repo (belt and suspenders) ------------
+*.pdf
+*.csv
+*.tsv
+*.txt
+*.xls
+*.xlsx
+*.docx
+*.png
+*.jpg
+*.jpeg
+*.heic
+*.zip
+
+# -- Documents by name, in case an extension is missing or odd ---------------
+*MyStudentData*
+*mystudentdata*
+*nslds*
+*NSLDS*
+*statement*
+*Statement*
+*1040*
+*tax-return*
+*transcript*
+*W-2*
+*W2*
+
+# -- Never, under any circumstances ------------------------------------------
+*password*
+*credential*
+*secret*
+*fsa-id*
+*FSA ID*
+.env
+*.key
+*.pem
+
+# -- Outbox syncs except anything carrying an unreviewed figure --------------
+outbox/*raw*
+outbox/*export*
+
+# -- OS / editor noise -------------------------------------------------------
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+~$*
