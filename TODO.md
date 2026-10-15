@@ -12,8 +12,6 @@ Started 2026-10-15 from what the `financial` repo already knew.
 
 ## Tier 1, now
 
-- [ ] **Create the private GitHub repo** and point this folder at it, so it survives across
-      machines like the other five. Frank does this; Claude adds the remote once it exists.
 - [ ] **Check the deferment before ~27 October.** Carried from `financial`, where it is also on
       the list. Two different organizations, an even day afternoon:
       1. **National Student Clearinghouse, 703-742-4200.** Has WGU's enrollment report reached
@@ -52,4 +50,4 @@ Started 2026-10-15 from what the `financial` repo already knew.
 
 ## Done
 
-- [x] **Repo created.** 2026-10-15.
+- [x] **Repo created and pushed** to `nintanuki/student-loans`. 2026-10-15.

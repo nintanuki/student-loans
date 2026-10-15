@@ -12,9 +12,6 @@ the path file they belong to.
 
 ## Answerable in under a minute
 
-**Q-001 - What should the GitHub repo be called?** This folder is `student-loans`. Keeping the
-same name on GitHub keeps the remote simple.
-
 **Q-002 - Did the deferment calls from 10/2 ever happen?** `financial` had two calls (the
 Clearinghouse and Aidvantage) queued for before 27 October, with no outcome recorded.
 

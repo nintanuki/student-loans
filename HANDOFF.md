@@ -42,10 +42,9 @@ pointer, or leaves it is Frank's call.
 
 ### Not done
 
-- No git commit and no GitHub remote. Frank has not created the repo on GitHub yet.
+- Nothing outstanding on git. First commit pushed to `nintanuki/student-loans` on 10/15.
 
 ### Next steps
 
-1. Frank creates the private GitHub repo; Claude adds the remote, commits and pushes.
-2. The deferment check before ~27 October (TODO tier 1).
-3. The studentaid.gov screenshots: PSLF count, any borrower defense application, the loan list.
+1. The deferment check before ~27 October (TODO tier 1).
+2. The studentaid.gov screenshots: PSLF count, any borrower defense application, the loan list.

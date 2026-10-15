@@ -146,7 +146,7 @@ say so instead of asking as if it is news.
 
 ## Git
 
-Private GitHub repo, **not created yet (NEED)**. Pull at clock in, push at clock out.
+Private GitHub repo at `nintanuki/student-loans`. Pull at clock in, push at clock out.
 
 **Pre-push check (run from `C:\workspaces\student-loans` before every push):**
 
