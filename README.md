@@ -27,6 +27,7 @@ repayment plan itself decides whether a month counts toward PSLF (`paths/repayme
 | | |
 |---|---|
 | `STATUS.md` | The living snapshot and the deadlines. Every figure dated. Start here. |
+| `history.md` | What happened to the loan, 2006 to now, with sources. |
 | `TODO.md` | The working list, in tiers, easiest first. |
 | `HANDOFF.md` | What happened last session and what to start with next. |
 | `decisions.md` | Every ruling, append only, each with its reason. |

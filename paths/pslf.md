@@ -1,7 +1,12 @@
 # PSLF, Public Service Loan Forgiveness
 
-**Frank's fallback** (D-004). Status: qualifying employer, qualifying plan, **count unknown
-(NEED).**
+**Frank's fallback** (D-004). Status: qualifying employer, qualifying plan. **0 qualifying months
+as of 20 Nov 2024** (NSLDS). Employment certified on studentaid.gov 15 Nov 2024, Palm Beach County
+District School Board. Count since then unknown (NEED).
+
+**Why it was 0:** the loans were in default from 2010 and 2015 until Fresh Start in Nov 2024, and
+two were FFEL loans, which never count. So the clock really starts with the new consolidation and
+IBR, sometime in 2025 (est). 120 months from there is around 2035 (est).
 
 ## What it is
 

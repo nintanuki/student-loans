@@ -37,3 +37,13 @@ to mention once.
 **D-006 - Use a fee-only attorney or a legal aid clinic for the borrower defense narrative, never
 a monthly-fee company.** From the July plan in `financial`. The application is free at
 studentaid.gov; writing the case is where help is worth paying for.
+
+**D-007 - Work up to filling in the borrower defense application together.** 2026-10-15. Frank
+asked whether Claude could eventually help him fill out the form; Claude said yes, within D-002.
+How it works: Claude interviews Frank, maps the form's questions, matches evidence, and drafts
+answers **only from what Frank said**; Frank reviews every sentence, and Frank signs and submits.
+Claude never fills a gap with something that "sounds right." The six-step path (interview, map
+the form, match evidence, draft, Frank's review with optional legal aid review, submit) is
+**Claude's suggestion, 2026-10-15**, not a ruling. Not started; Frank said "not now."
+**This adjusts D-006:** a lawyer or clinic becomes an optional reviewer of a draft rather than
+the author. Reason: the form is designed for borrowers, and a reviewer costs less than a writer.

@@ -15,20 +15,26 @@ the path file they belong to.
 **Q-002 - Did the deferment calls from 10/2 ever happen?** `financial` had two calls (the
 Clearinghouse and Aidvantage) queued for before 27 October, with no outcome recorded.
 
-**Q-003 - Have you ever filed a borrower defense application?** Even an old one, or one started
-and not finished. This matters a lot: applications filed by certain dates were handled under a
-court settlement (Sweet v. Cardona), and later ones go through the regular process.
+**Q-003 - Did you file a borrower defense application after January 2025?** The Drive folder stops
+in Jan 2025 with the research done and the form blank. If nothing was filed, that is fine; it just
+tells us where to start.
+
+**Q-008 - Did you send the paper consolidation and IDR forms to Aidvantage in December 2024?** They
+were nearly filled in on 2 Dec 2024. By July 2026 you had one consolidated loan on IBR, so
+something went through; this is about knowing which.
 
 ## Needs a minute of memory
 
-**Q-004 - Did all of the $50,000 come from the University of Phoenix,** or were other schools
-consolidated in too? Borrower defense only reaches the loans for the school that misled you.
+**Q-007 - What happened in 2014?** Federal records show a school deferment starting January 2014
+and a "withdrawn" status in May 2014, but your notes say Phoenix ended in February 2009. Were you
+enrolled somewhere else in 2014? (C-004)
 
 **Q-005 - When did you start full time at the school district, and have you worked anywhere
-else since the loan went into repayment?** That decides which past months could ever count for
-PSLF.
+else since?** That decides which past months could count for PSLF or be bought back.
 
-## Needs a document
+## Answered
 
-**Q-006 - The default and Fresh Start: roughly when?** The NSLDS export will have exact dates, so
-this can wait for it.
+- **Q-001** (GitHub name): `student-loans`. 2026-10-15.
+- **Q-004** (all from Phoenix?): **yes, every loan.** NSLDS export, 2026-10-15.
+- **Q-006** (default and Fresh Start dates): defaults Oct 2010, Mar 2012 and July 2015; Fresh Start
+  2 Nov 2024. `history.md`, 2026-10-15.
